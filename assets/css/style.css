@@ -1,0 +1,112 @@
+<style>
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+  font-size: 18px;
+  color: #777777;
+  line-height: 150%;
+  background-image: url('../../assets/images/new_year_background.png');
+}
+
+
+
+h1 {
+  font-family: 'Georgia', Times, Times New Roman, serif;
+  font-size: 26px;
+  font-weight: bold;
+}
+
+h2 {
+  font-family: 'Georgia', Times, Times New Roman, serif;
+  font-size: 24px;
+  color: #4aaaa5;
+  padding-bottom: 10px;
+  font-weight: bold;
+}
+
+a {
+  color: #d21034;
+}
+
+.container {
+  margin: 0 auto;
+  width: 960px;
+}
+
+#header-row {
+  background: #ffffff;
+  height: 87px;
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+  border-color: grey;
+}
+
+.header-container {
+  margin: 0 auto;
+  width: 960px;
+}
+
+.header-tab {
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  margin-left:50px;
+  width: 250px;
+  background: #4aaaa5;
+  float: left;
+  color: #ffffff;
+}
+
+.header-menu {
+  background: #ffffff;
+  float: left;
+  width: 510px;
+  margin-top: 50px;
+  text-align: right;
+}
+
+.menu-item {
+  background: #ffffff;
+
+}
+
+.footer {
+  margin-top: 50px;
+  background: #666666;
+  text-align: center;
+  border-top-width: 5px;
+  border-top-style: solid;
+  border-color: #4aaaa5;
+  padding: 30px;
+  color: #ffffff;
+  font-size: 10px;
+}
+
+#bio,
+#contact {
+  
+  background: #ffffff;
+  margin-top: 40px;
+}
+
+#bio {
+  width: 470px;
+  margin-right: 20px;
+  padding: 40px;
+}
+
+#contact {
+  width: 270px;
+  padding: 40px;
+  float: left;
+}
+
+#bio-image {
+  padding: 15px;
+}
+
+
+</style>
